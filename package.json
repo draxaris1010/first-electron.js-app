@@ -4,7 +4,7 @@
   "description": "This is my first electron.js app.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node main.js"
   },
   "author": "draxaris1010",
   "license": "ISC",
