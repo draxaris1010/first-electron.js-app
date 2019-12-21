@@ -1,0 +1,11 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "This is my first electron.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "draxaris1010",
+  "license": "ISC"
+}
